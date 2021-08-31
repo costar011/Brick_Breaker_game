@@ -9,7 +9,6 @@ Simple breakout game using JavaScript and Canvas
 # Play
 
 https://arclic.github.io/JS-breakout/app.html
-https://github.com/costar011/app.html
 
 # Development
 
